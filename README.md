@@ -4,3 +4,5 @@ This is an advance course led by Dr Aammar Tufail (Python for Data Science in Ur
 ## youtube channel: [Codanics](https://www.youtube.com/c/Codanics)
 
 ### Playlist for this course [Click here](https://youtube.com/playlist?list=PL9XvIvvVL50EyRNp6fnYwMve1CJqJCHj8)
+
+![Poster](00_sources/poster1.png)
